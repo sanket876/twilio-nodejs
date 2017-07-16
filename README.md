@@ -16,7 +16,7 @@ I have used dotnet module of nodejs to setup environment variable for security p
 
 # ToDo
 + Save twilio repsone to MongoDB 
-+ Make this code using `async`
++ Convert javascript code to support `async` 
 + Convert to support large number of message
 
 
