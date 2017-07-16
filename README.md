@@ -12,6 +12,7 @@ Change environmental variable i.e. account_sid, access_token, etc.. with your ow
 
 ## Run
 Hit below command to run the application
+
     node sendSms.js
 
 ## Notes
